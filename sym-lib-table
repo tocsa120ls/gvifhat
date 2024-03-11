@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tfp403pzp")(type "KiCad")(uri "${KIPRJMOD}/tfp403pzp.kicad_sym")(options "")(descr ""))
+  (lib (name "Raspi4p")(type "KiCad")(uri "${KIPRJMOD}/lib/Raspi4p.kicad_sym")(options "")(descr ""))
+  (lib (name "LPCon")(type "KiCad")(uri "${KIPRJMOD}/lib/LPCon.kicad_sym")(options "")(descr ""))
+)
