@@ -444,7 +444,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "specctra/hdmi2lvds.dsn",
+      "specctra_dsn": "specctra/gvifhat.dsn",
       "step": "",
       "vrml": ""
     },

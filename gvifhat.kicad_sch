@@ -4625,7 +4625,7 @@
     (pin "2" (uuid 3b9bde83-a4c2-41f6-91cb-5e23515ba2d2))
     (pin "3" (uuid b1bf1f94-90a8-434d-b805-a335bd65e1d2))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "JP1") (unit 1)
         )
@@ -4663,7 +4663,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe093))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d7c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U6") (unit 4)
         )
@@ -4692,7 +4692,7 @@
     (pin "4" (uuid be2f0052-a796-48b2-b3a2-d97a19257155))
     (pin "5" (uuid bca0bc7b-6a58-4bf2-8631-6369cce63db2))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J4") (unit 1)
         )
@@ -4718,7 +4718,7 @@
     (pin "1" (uuid daf88f3e-5832-4545-8938-54229efa1388))
     (pin "2" (uuid 16c58023-ce61-4dc3-9b18-a2ee8aa4e989))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "Y1") (unit 1)
         )
@@ -4743,7 +4743,7 @@
     )
     (pin "1" (uuid 6387ba18-bf8f-4ed7-a0bb-8eda86ba5c6e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR034") (unit 1)
         )
@@ -4768,7 +4768,7 @@
     )
     (pin "1" (uuid 150c0ed5-8064-46d8-ae94-781bd0b97a7e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR035") (unit 1)
         )
@@ -4796,7 +4796,7 @@
     (pin "3" (uuid 09815159-8dba-4b87-a82f-50c4f393069c))
     (pin "4" (uuid 871c5eed-ae56-4217-8235-59293ba6c2b5))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J7") (unit 1)
         )
@@ -4813,7 +4813,7 @@
     (property "Value" "Battery_Cell" (at 358.521 33.4725 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles" (at 355.6 32.766 90)
+    (property "Footprint" "hdmi2lvds:MPD_BC501SM-TR" (at 355.6 32.766 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 355.6 32.766 90)
@@ -4822,7 +4822,7 @@
     (pin "1" (uuid 96582f10-068c-487c-a128-274e18f383d2))
     (pin "2" (uuid c7264847-988f-4566-b2a2-03557aac7c74))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "BT1") (unit 1)
         )
@@ -4860,7 +4860,7 @@
     (pin "14" (uuid b11ea621-02c8-48d6-95cd-af8b9f93aab3))
     (pin "7" (uuid 42d9cf61-a58c-4eb4-8886-ab8a1bd6f05b))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U3") (unit 1)
         )
@@ -4892,7 +4892,7 @@
     (pin "7" (uuid aa536f75-b924-4fd9-b7cd-f58e18d28863))
     (pin "4" (uuid 007d860b-9fa8-40dd-92b4-2037d1f09ba4))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U9") (unit 1)
         )
@@ -4918,7 +4918,7 @@
     (pin "1" (uuid d34f2e8d-b022-4c0c-9ce3-4e2dc560dfc0))
     (pin "2" (uuid b420f2c6-2b21-48e5-ae3a-a8abef7dd5f3))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J2") (unit 1)
         )
@@ -4943,7 +4943,7 @@
     )
     (pin "1" (uuid 2c321d8b-5892-4f0b-a8eb-157c66222d47))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "TP1") (unit 1)
         )
@@ -4969,7 +4969,7 @@
     (pin "1" (uuid ffafeedf-8f22-42c2-b646-97ccdee52994))
     (pin "2" (uuid 1dccb36b-e978-486f-88cc-b8603aa88671))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "D4") (unit 1)
         )
@@ -4995,7 +4995,7 @@
     (pin "1" (uuid 926eb17d-413a-4ee9-9abe-dd54e5d705f8))
     (pin "2" (uuid 778694b6-c5d7-43f4-9911-be82dada860c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C4") (unit 1)
         )
@@ -5033,7 +5033,7 @@
     (pin "14" (uuid 54a4cbfd-3ef6-4739-ab9b-09032db74ef3))
     (pin "7" (uuid 45be666f-6ca3-40cc-a900-58be365297a6))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U7") (unit 3)
         )
@@ -5058,7 +5058,7 @@
     )
     (pin "1" (uuid dce103c7-f332-4a0f-84f3-0e2067450a50))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR07") (unit 1)
         )
@@ -5096,7 +5096,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe092))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d7b))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U3") (unit 2)
         )
@@ -5122,7 +5122,7 @@
     (pin "1" (uuid fe7e8387-45a5-4b99-83df-b1ab4f3fb6a0))
     (pin "2" (uuid 15b41be7-aeb8-472e-b8ed-435b5afab587))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C15") (unit 1)
         )
@@ -5148,7 +5148,7 @@
     (pin "1" (uuid 29021412-42d8-4d3d-a032-79d6106ef048))
     (pin "2" (uuid dfd8afa9-ba32-4a09-87a0-dae39c5937bd))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R20") (unit 1)
         )
@@ -5220,7 +5220,7 @@
     (pin "8" (uuid 805e032a-b043-4a61-9ee2-94d04e4b845d))
     (pin "9" (uuid efccc02c-86a2-4091-949d-2575840f29ca))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U1") (unit 1)
         )
@@ -5245,7 +5245,7 @@
     )
     (pin "1" (uuid 02ef1122-39e2-4755-bff8-08c8f55118de))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR011") (unit 1)
         )
@@ -5271,7 +5271,7 @@
     (pin "1" (uuid 61a8fd75-cebb-4516-96c7-611ce8a1c054))
     (pin "2" (uuid 95860e77-2cd6-412b-b2a7-8b95aa8e141b))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C11") (unit 1)
         )
@@ -5297,7 +5297,7 @@
     (pin "1" (uuid 7596dfa5-30bc-49b8-9764-ded31bcb41eb))
     (pin "2" (uuid 6e1de498-b0b6-49ca-b004-8a64cc213bc9))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C6") (unit 1)
         )
@@ -5322,7 +5322,7 @@
     )
     (pin "1" (uuid 4426ce79-3335-4223-8f56-8da6c65b6014))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR029") (unit 1)
         )
@@ -5347,7 +5347,7 @@
     )
     (pin "1" (uuid f1c4f189-f1c6-4677-8932-1865e61a0288))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR044") (unit 1)
         )
@@ -5379,7 +5379,7 @@
     (pin "7" (uuid ef4682cc-445e-411a-a3f0-49db244cdc51))
     (pin "8" (uuid 9a90572b-8821-432a-b4a3-fb8e93044b24))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U2") (unit 1)
         )
@@ -5405,7 +5405,7 @@
     (pin "1" (uuid 24038f8a-faf8-42ef-b5bc-7006b9352ade))
     (pin "2" (uuid 29761b7a-399e-4a3e-9f0e-8fb18dfcf4ec))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "L1") (unit 1)
         )
@@ -5443,7 +5443,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe094))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d7d))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U6") (unit 2)
         )
@@ -5469,7 +5469,7 @@
     (pin "1" (uuid 0b96347f-292f-49bb-bb0d-08d0645b5687))
     (pin "2" (uuid 86dd41a9-0257-49a7-a16c-f3ac9080e84a))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "D5") (unit 1)
         )
@@ -5495,7 +5495,7 @@
     (pin "1" (uuid fbe3b41d-c7d3-4248-9fc5-7e288379bba5))
     (pin "2" (uuid 00120d0c-fc88-4f1a-a036-fe732bea1969))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "D3") (unit 1)
         )
@@ -5533,7 +5533,7 @@
     (pin "14" (uuid b11ea621-02c8-48d6-95cd-af8b9f93aab4))
     (pin "7" (uuid 42d9cf61-a58c-4eb4-8886-ab8a1bd6f05c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U7") (unit 1)
         )
@@ -5558,7 +5558,7 @@
     )
     (pin "1" (uuid bdca543e-0ad8-43c5-9103-9f856cff4363))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR028") (unit 1)
         )
@@ -5583,7 +5583,7 @@
     )
     (pin "1" (uuid 1a390036-44a5-43c7-9210-3f2d892f9e44))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR049") (unit 1)
         )
@@ -5609,7 +5609,7 @@
     (pin "1" (uuid 3ef35a60-ae92-4e34-88d9-3776d28a2995))
     (pin "2" (uuid ea0dc459-eefc-498a-9bbc-272558a45e44))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C5") (unit 1)
         )
@@ -5634,7 +5634,7 @@
     )
     (pin "1" (uuid 81dada4e-8a7e-45d7-9a0f-a80e9c404058))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR041") (unit 1)
         )
@@ -5660,7 +5660,7 @@
     (pin "1" (uuid 572c40f6-e87e-45c6-8fb9-755df6623da7))
     (pin "2" (uuid 46bfb969-787e-4165-a57d-065867d6595e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R13") (unit 1)
         )
@@ -5685,7 +5685,7 @@
     )
     (pin "1" (uuid 7194a3e0-948b-41d8-b4c2-3b85657eb58c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR025") (unit 1)
         )
@@ -5710,7 +5710,7 @@
     )
     (pin "1" (uuid bc6f1448-e581-43f5-a59e-58b72ab0b771))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR010") (unit 1)
         )
@@ -5736,7 +5736,7 @@
     (pin "1" (uuid 5a27ad3d-1ad2-41da-b283-b30b44069706))
     (pin "2" (uuid ebbde2df-ae5b-476b-933d-d31e6806c9b8))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R12") (unit 1)
         )
@@ -5761,7 +5761,7 @@
     )
     (pin "1" (uuid 2f387c22-80c4-44af-9b1b-a6d4a224532d))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR031") (unit 1)
         )
@@ -5787,7 +5787,7 @@
     (pin "1" (uuid b53585e1-29b0-465d-94fa-327245dafede))
     (pin "2" (uuid 3dc4f0b2-c130-47b9-a4df-dfee2e733c95))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C14") (unit 1)
         )
@@ -5813,7 +5813,7 @@
     (pin "1" (uuid 39bc0363-7122-4bee-be04-8a944a6e3021))
     (pin "2" (uuid 9e58216e-dd93-431f-8de0-a0c80af585e5))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R7") (unit 1)
         )
@@ -5838,7 +5838,7 @@
     )
     (pin "1" (uuid 7cd1268c-db96-4d4c-8e9a-677b5b17a40e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR05") (unit 1)
         )
@@ -5864,7 +5864,7 @@
     (pin "1" (uuid 0ad4509c-c76d-4f30-a682-58070b6ea830))
     (pin "2" (uuid f39534c4-a055-4bf0-871e-ec3252c70f2a))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R14") (unit 1)
         )
@@ -5902,7 +5902,7 @@
     (pin "14" (uuid 54a4cbfd-3ef6-4739-ab9b-09032db74ef4))
     (pin "7" (uuid 45be666f-6ca3-40cc-a900-58be365297a7))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U3") (unit 3)
         )
@@ -5927,7 +5927,7 @@
     )
     (pin "1" (uuid 816e3116-ce33-4642-be75-d7f830ea96d3))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR017") (unit 1)
         )
@@ -5952,7 +5952,7 @@
     )
     (pin "1" (uuid 24ea8d69-8a59-405a-8183-394c53f337f7))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR027") (unit 1)
         )
@@ -5978,7 +5978,7 @@
     (pin "1" (uuid 676cdb1d-d829-41cd-b06e-7adb361870bf))
     (pin "2" (uuid 91fc862e-7a22-46d5-9ef0-dc37e3bb13da))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "FB4") (unit 1)
         )
@@ -6016,7 +6016,7 @@
     (pin "14" (uuid bbdf8722-90cc-400c-b29b-5db3788aedad))
     (pin "7" (uuid 39a508e5-60ed-4583-b198-577e71a3de57))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U7") (unit 5)
         )
@@ -6042,7 +6042,7 @@
     (pin "1" (uuid da46b31b-538b-4dfb-a33e-3217d5c8af98))
     (pin "2" (uuid 8eae636a-ae6a-4266-b91d-862600046aba))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "FB3") (unit 1)
         )
@@ -6068,7 +6068,7 @@
     (pin "1" (uuid bb96feee-ca3b-41f8-a91c-29d4b857fddb))
     (pin "2" (uuid fa3c9dda-9a43-416b-812b-5fd1c067384c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R19") (unit 1)
         )
@@ -6097,7 +6097,7 @@
     (pin "4" (uuid 0d8fc309-514c-4022-b189-2891552f77ee))
     (pin "5" (uuid 91028b8e-ebc4-4e43-ab51-4f4e41049c93))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J5") (unit 1)
         )
@@ -6135,7 +6135,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe095))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d7e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U3") (unit 4)
         )
@@ -6173,7 +6173,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe096))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d7f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U7") (unit 4)
         )
@@ -6198,7 +6198,7 @@
     )
     (pin "1" (uuid beb0c858-ae04-4819-b8ba-93bda143bf2d))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR01") (unit 1)
         )
@@ -6224,7 +6224,7 @@
     (pin "1" (uuid dd2b2d8c-27a8-47ea-8079-b0b24e22d49c))
     (pin "2" (uuid 51d6799f-bc51-4637-9865-625adadcb759))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R4") (unit 1)
         )
@@ -6250,7 +6250,7 @@
     (pin "1" (uuid 5a3f8df8-2ec0-4265-82ff-6d322ef83f69))
     (pin "2" (uuid ad7707f9-bd1b-4133-8d76-99affa48e899))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R9") (unit 1)
         )
@@ -6275,7 +6275,7 @@
     )
     (pin "1" (uuid b2b540df-369a-4dd1-89a2-6e3c748dbfce))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR043") (unit 1)
         )
@@ -6301,7 +6301,7 @@
     (pin "1" (uuid d7dae26f-660e-4aa1-923e-b75c235b1a91))
     (pin "2" (uuid 82526837-2df1-4094-9672-c9cb8f3e7725))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R1") (unit 1)
         )
@@ -6326,7 +6326,7 @@
     )
     (pin "1" (uuid cc2dafac-15d2-4703-89fc-0d93b6104eaf))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR046") (unit 1)
         )
@@ -6352,7 +6352,7 @@
     (pin "1" (uuid 1d88ab21-0495-4cb6-8213-4b36a69e6d39))
     (pin "2" (uuid 21540898-2087-40f8-bcf1-3daafbcbd805))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C9") (unit 1)
         )
@@ -6378,7 +6378,7 @@
     (pin "1" (uuid 9fddedcf-154b-44f2-93d1-3be758007c2c))
     (pin "2" (uuid aff7e453-70c8-491c-ae31-e1ab566e36b1))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R11") (unit 1)
         )
@@ -6404,7 +6404,7 @@
     (pin "1" (uuid fdf4ac4b-fe63-42ce-8947-e35ead54f388))
     (pin "2" (uuid cdf72bbb-3a80-4ab8-95fd-e063c0431a50))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R8") (unit 1)
         )
@@ -6442,7 +6442,7 @@
     (pin "14" (uuid dea2d657-224b-46cc-a116-77393d67a7e7))
     (pin "7" (uuid 4522be64-b7df-4aef-954f-daa7970bed93))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U6") (unit 5)
         )
@@ -6480,7 +6480,7 @@
     (pin "8" (uuid a91a33b4-d74d-4cb3-b48f-8288b75063ae))
     (pin "9" (uuid db797b1a-cef9-4bd8-ab77-b8acbedcd841))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U4") (unit 1)
         )
@@ -6505,7 +6505,7 @@
     )
     (pin "1" (uuid 60b8f8f4-8969-4762-a4ba-5358426cf707))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR02") (unit 1)
         )
@@ -6530,7 +6530,7 @@
     )
     (pin "1" (uuid 87c329fa-608f-4376-9575-ac54fabf85f9))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR09") (unit 1)
         )
@@ -6555,7 +6555,7 @@
     )
     (pin "1" (uuid c53b9e81-69fb-41c7-8542-670b06efbe04))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR014") (unit 1)
         )
@@ -6580,7 +6580,7 @@
     )
     (pin "1" (uuid 88231535-a74b-49d0-8946-34952837775f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR033") (unit 1)
         )
@@ -6605,7 +6605,7 @@
     )
     (pin "1" (uuid 29e68843-cfec-4146-983e-72c148ce5324))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR022") (unit 1)
         )
@@ -6631,7 +6631,7 @@
     (pin "1" (uuid 63583e93-ecec-4371-a54f-dad6a3985cca))
     (pin "2" (uuid 8783ef7a-fac7-43cd-9c3f-5f6e5d60d006))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R6") (unit 1)
         )
@@ -6669,7 +6669,7 @@
     (pin "14" (uuid ab90d001-7d36-4bf9-82a1-26740d4fe097))
     (pin "7" (uuid f0494b02-2e5e-4789-8c70-f768f1d55d80))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U7") (unit 2)
         )
@@ -6694,7 +6694,7 @@
     )
     (pin "1" (uuid c3c377bb-7b3f-4fcd-bb53-c5ef738ef569))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR040") (unit 1)
         )
@@ -6720,7 +6720,7 @@
     (pin "1" (uuid e0b00111-de18-45b7-b6b5-27f5a189ecd5))
     (pin "2" (uuid d7574100-2bf0-4500-9ca5-c3d8d2323d9a))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C1") (unit 1)
         )
@@ -6745,7 +6745,7 @@
     )
     (pin "1" (uuid c32430d5-ad99-44f9-ba1f-8b97263334e5))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR038") (unit 1)
         )
@@ -6773,7 +6773,7 @@
     (pin "3" (uuid bcf3ab9b-3a34-4714-9a85-c8d6f63d0874))
     (pin "4" (uuid cbf5a40f-b62b-479c-8cd4-aea5b98198cf))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J6") (unit 1)
         )
@@ -6799,7 +6799,7 @@
     (pin "1" (uuid 3433e43a-583f-4683-99e8-f24289afeb87))
     (pin "2" (uuid f596e30b-d3ff-4abb-97a1-467559871f45))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C10") (unit 1)
         )
@@ -6825,7 +6825,7 @@
     (pin "1" (uuid 1e16c965-9ea9-4ca1-973c-a4bc265be320))
     (pin "2" (uuid c8f4c92c-5101-47a5-9417-a6a7d2e454c4))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C8") (unit 1)
         )
@@ -6850,7 +6850,7 @@
     )
     (pin "1" (uuid caf419fb-654b-4276-a220-835aaeaf67c1))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR04") (unit 1)
         )
@@ -6876,7 +6876,7 @@
     (pin "1" (uuid 2f0fb908-c95d-40ec-ac3f-f5c080b16b14))
     (pin "2" (uuid 56eaa245-795a-4b90-99f7-41611d3ba9ad))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C3") (unit 1)
         )
@@ -6901,7 +6901,7 @@
     )
     (pin "1" (uuid 4c8a8b81-b441-4912-b3f2-deea7cdcbefa))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR016") (unit 1)
         )
@@ -6926,7 +6926,7 @@
     )
     (pin "1" (uuid 63cb3b14-c38f-4bac-bdc9-304e339e3ac1))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR037") (unit 1)
         )
@@ -6951,7 +6951,7 @@
     )
     (pin "1" (uuid 923895fb-cc15-4df9-b075-281e12e251df))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR013") (unit 1)
         )
@@ -6976,7 +6976,7 @@
     )
     (pin "1" (uuid e6e0cc12-a08d-4381-8655-0fc1e5c3c5dc))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR020") (unit 1)
         )
@@ -7040,7 +7040,7 @@
     (pin "8" (uuid e8bd6ede-2a8e-49cc-9a50-5e3ccef2f6c0))
     (pin "9" (uuid 8ba53d94-b7c4-4719-b156-d5409049cbeb))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J1") (unit 1)
         )
@@ -7067,7 +7067,7 @@
     (pin "2" (uuid 5d74047d-6f42-40ad-bc70-bbd1871918d1))
     (pin "1" (uuid d93a036e-f361-4da4-8803-94ee4503acbe))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J9") (unit 1)
         )
@@ -7093,7 +7093,7 @@
     (pin "1" (uuid dc6ca3ce-0647-4f61-9ab8-183d0c152f43))
     (pin "2" (uuid f76cc352-b505-44b6-b6f9-076db8d7d218))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R15") (unit 1)
         )
@@ -7118,7 +7118,7 @@
     )
     (pin "1" (uuid 437e1e03-0743-4343-99a6-38a8c05112c3))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR050") (unit 1)
         )
@@ -7143,7 +7143,7 @@
     )
     (pin "1" (uuid 776a6cb8-b1de-4e9e-bfb5-86b9bf26dab7))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR026") (unit 1)
         )
@@ -7168,7 +7168,7 @@
     )
     (pin "1" (uuid dcba6dd2-54b1-4dec-a55b-857869d244c9))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR019") (unit 1)
         )
@@ -7194,7 +7194,7 @@
     (pin "1" (uuid 3a7ccc30-d82c-4e09-a4de-c4b7ec45cf86))
     (pin "2" (uuid 7d3620e2-e997-4c49-8f4d-132b5e4e8c0b))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R10") (unit 1)
         )
@@ -7232,7 +7232,7 @@
     (pin "14" (uuid b11ea621-02c8-48d6-95cd-af8b9f93aab5))
     (pin "7" (uuid 42d9cf61-a58c-4eb4-8886-ab8a1bd6f05d))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U6") (unit 1)
         )
@@ -7258,7 +7258,7 @@
     (pin "1" (uuid 1ec49c8f-08aa-4b34-b052-e35c2746484c))
     (pin "2" (uuid 05cfbad1-45a5-492b-b0da-9df75a40b64c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C13") (unit 1)
         )
@@ -7283,7 +7283,7 @@
     )
     (pin "1" (uuid aa4db6a0-14f4-482c-a075-c0df730bc4bd))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR024") (unit 1)
         )
@@ -7309,7 +7309,7 @@
     (pin "1" (uuid 6dd87d1a-fc5b-458b-a949-4161ffeb0c56))
     (pin "2" (uuid a33d1f2b-6a97-4d22-bc65-37bc6d46bcc4))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C12") (unit 1)
         )
@@ -7334,7 +7334,7 @@
     )
     (pin "1" (uuid 3a76c060-108b-4760-ba77-653253d5586a))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR015") (unit 1)
         )
@@ -7361,7 +7361,7 @@
     (pin "2" (uuid 677459ea-79e6-443a-b203-f1ff5421e6b0))
     (pin "3" (uuid aac0a497-dfb3-447f-acad-0341c100faae))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "Y2") (unit 1)
         )
@@ -7393,7 +7393,7 @@
     (pin "1" (uuid 0b5605fc-60e1-4cd5-a4f0-3b10b35acc77))
     (pin "2" (uuid 33662dac-1a52-4bab-b53a-4b0c6eb93e4f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "D1") (unit 1)
         )
@@ -7418,7 +7418,7 @@
     )
     (pin "1" (uuid 50467240-aa40-43b0-8b16-446bbd6181b5))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR021") (unit 1)
         )
@@ -7444,7 +7444,7 @@
     (pin "1" (uuid f443ed74-41a7-4e2e-be62-2e12787d3877))
     (pin "2" (uuid 0229e984-5664-481e-a8d8-e453e31bbf5c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R2") (unit 1)
         )
@@ -7469,7 +7469,7 @@
     )
     (pin "1" (uuid 4c1d915f-4cc2-4ca6-9c72-3502ad8db68d))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR051") (unit 1)
         )
@@ -7495,7 +7495,7 @@
     (pin "1" (uuid d758f1a3-c97e-4293-837f-8f98bee0860c))
     (pin "2" (uuid 5d11908f-509d-40c4-933e-966c07b3479f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J3") (unit 1)
         )
@@ -7520,7 +7520,7 @@
     )
     (pin "1" (uuid e4ee5849-f045-47c4-be35-9ef1d6f83802))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR012") (unit 1)
         )
@@ -7546,7 +7546,7 @@
     (pin "1" (uuid 503bd813-f8e1-4e2a-97a3-ae7bcae5a752))
     (pin "2" (uuid c8e27b49-3888-4a7e-b7db-77a0d6e9d189))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R3") (unit 1)
         )
@@ -7571,7 +7571,7 @@
     )
     (pin "1" (uuid 60114594-35ae-48c4-bfc8-2db30b294615))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR032") (unit 1)
         )
@@ -7597,7 +7597,7 @@
     (pin "1" (uuid 55245511-7889-4be8-8b1d-12c6463aff7c))
     (pin "2" (uuid 452b3b63-bea8-42b0-b95f-d7e7a3033470))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "L2") (unit 1)
         )
@@ -7622,7 +7622,7 @@
     )
     (pin "1" (uuid cebade69-cd7c-44c6-97c3-0b649d3bc121))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR06") (unit 1)
         )
@@ -7648,7 +7648,7 @@
     (pin "1" (uuid 2706c0fb-db76-4362-a122-1a0c70856570))
     (pin "2" (uuid 698ecd17-0ec6-4359-808c-a133d65283ad))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "FB2") (unit 1)
         )
@@ -7673,7 +7673,7 @@
     )
     (pin "1" (uuid 4945cc5a-d259-455a-8474-c187673dfaf9))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR047") (unit 1)
         )
@@ -7699,7 +7699,7 @@
     (pin "1" (uuid 882c4d43-60da-46b2-a193-b62682629a39))
     (pin "2" (uuid eb4ee539-f8b5-4afd-85ed-9710113d558e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C2") (unit 1)
         )
@@ -7724,7 +7724,7 @@
     )
     (pin "1" (uuid 4f04adc5-6956-4815-89ba-f6224d68ed6f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR018") (unit 1)
         )
@@ -7750,7 +7750,7 @@
     (pin "1" (uuid 293a2ae0-b14e-48b9-9e17-999b72030055))
     (pin "2" (uuid e5b1814d-02af-453c-b76b-5d200b20a17f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R21") (unit 1)
         )
@@ -7775,7 +7775,7 @@
     )
     (pin "1" (uuid ca965189-68cd-42df-83d3-e194d224a208))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR03") (unit 1)
         )
@@ -7800,7 +7800,7 @@
     )
     (pin "1" (uuid 37729a08-2b4b-4ac5-a241-339c178cd1d2))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR048") (unit 1)
         )
@@ -7826,7 +7826,7 @@
     (pin "1" (uuid 8ab1bfdc-63b8-4240-b911-5f4ad0d18be6))
     (pin "2" (uuid 35550438-3836-423b-bc26-be8dd2b09821))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "R5") (unit 1)
         )
@@ -7851,7 +7851,7 @@
     )
     (pin "1" (uuid 9f8f02b8-a2cd-446b-8f55-03bf6d3895e9))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR039") (unit 1)
         )
@@ -7877,7 +7877,7 @@
     (pin "1" (uuid 7d88c40c-5c30-41fb-8632-63935f489e0b))
     (pin "2" (uuid c448f247-f4b8-4538-a848-ba058e29453c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "J8") (unit 1)
         )
@@ -7927,7 +7927,7 @@
     (pin "8" (uuid 98d608de-0c27-4868-a66f-8cf251c4b3b5))
     (pin "9" (uuid 43fd67c7-c356-4d98-bf2e-264c18a5249e))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U5") (unit 1)
         )
@@ -7952,7 +7952,7 @@
     )
     (pin "1" (uuid 47273a45-7a39-48a5-8f47-6daa2cbdd0f8))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR023") (unit 1)
         )
@@ -7977,7 +7977,7 @@
     )
     (pin "1" (uuid 9080f8de-db63-4207-921f-eef6f88c3fdf))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR030") (unit 1)
         )
@@ -8015,7 +8015,7 @@
     (pin "14" (uuid 54a4cbfd-3ef6-4739-ab9b-09032db74ef5))
     (pin "7" (uuid 45be666f-6ca3-40cc-a900-58be365297a8))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U6") (unit 3)
         )
@@ -8041,7 +8041,7 @@
     (pin "1" (uuid 5b524ac5-faba-4a00-ab36-613ead6f2d04))
     (pin "2" (uuid d0e07176-900d-417d-9127-416b01343ab6))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "C7") (unit 1)
         )
@@ -8066,7 +8066,7 @@
     )
     (pin "1" (uuid 77d2b035-75ba-4b53-a33a-1231cfc44989))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR045") (unit 1)
         )
@@ -8091,7 +8091,7 @@
     )
     (pin "1" (uuid 3cad449e-8ed9-430e-892c-5bcf9578332c))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR036") (unit 1)
         )
@@ -8123,7 +8123,7 @@
     (pin "1" (uuid ffbe332c-f3a6-4bd8-8001-056596acc75b))
     (pin "2" (uuid 750542a8-1195-457d-9703-d93c6c782a8f))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "D2") (unit 1)
         )
@@ -8161,7 +8161,7 @@
     (pin "14" (uuid 523792b5-5018-4b44-af69-bde445b637e4))
     (pin "7" (uuid 23494510-f1f9-4519-84a8-3bcb10902317))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "U3") (unit 5)
         )
@@ -8186,7 +8186,7 @@
     )
     (pin "1" (uuid abd091f7-98fd-4ce2-9246-8a6e5b81a617))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR042") (unit 1)
         )
@@ -8211,7 +8211,7 @@
     )
     (pin "1" (uuid ff5880e9-2519-4df8-9208-2b2230373135))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "#PWR08") (unit 1)
         )
@@ -8237,7 +8237,7 @@
     (pin "1" (uuid 094ca786-80c7-4076-afe1-40a3d9b4a586))
     (pin "2" (uuid ce2c389c-9d02-45f0-acab-c4372a52f0ca))
     (instances
-      (project "hdmi2lvds"
+      (project "gvifhat"
         (path "/10b86891-9787-4a2c-9434-8ead508caa4d"
           (reference "FB1") (unit 1)
         )
